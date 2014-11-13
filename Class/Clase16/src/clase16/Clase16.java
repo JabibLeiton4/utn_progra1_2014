@@ -20,7 +20,7 @@ public class Clase16 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        String [] arreglo={"Mario","Efren","Susana","Campbell","Agustin","Elias"};
+        String [] arreglo={"Mario","Efren","Susana","Efren","Agustin","Elias"};
         
         BusquedaLineal bl=new BusquedaLineal();
         System.out.print("La busqueda lineal es:" +bl.BuscarNombre(arreglo, "Efren"));

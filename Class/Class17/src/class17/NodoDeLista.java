@@ -15,7 +15,7 @@ public class NodoDeLista {
     private String dato;
     private String cuentaBancaria;
     private NodoDeLista siguiente;
-    
+          
     public NodoDeLista()
     {
         dato="";
